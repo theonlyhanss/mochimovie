@@ -8,6 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata = {
   title: 'mochimovie',
   description: 'A World of movie',
+  color: '#FFEA00',
 }
 
 export default function RootLayout({ children }) {
