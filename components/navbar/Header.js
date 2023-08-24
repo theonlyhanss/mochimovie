@@ -18,7 +18,7 @@ const Header = () => {
           <Link href="/">
             <div>
               <p className="bg-primary w-28 md:w-32 text-sm md:text-base py-1 px-2 my-5 text-bg-black font-extrabold text-center rounded-sm hover:bg-yellow-400">
-                CINEWORLD
+                MOCHIMOVIE
               </p>
             </div>
           </Link>
